@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1686053879 source:c:\users\dell\desktop\prc\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"facturation.h"
+	"file_io.h"
+
+1686051305 c:\users\dell\desktop\prc\facturation.h
+
+1686053151 c:\users\dell\desktop\prc\file_io.h
+	"patient.h"
+
+1686053720 source:c:\users\dell\desktop\prc\file_io.c
+	<stdio.h>
+	<stdlib.h>
+	"file_io.h"
+	"patient.h"
+
+1686051406 source:c:\users\dell\desktop\prc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.h"
+	"rendezvous.h"
+	"traitement.h"
+	"facturation.h"
+
+1686051340 c:\users\dell\desktop\prc\patient.h
+
+1686051359 c:\users\dell\desktop\prc\rendezvous.h
+
+1686054066 c:\users\dell\desktop\prc\traitement.h
+
+1686053861 source:c:\users\dell\desktop\prc\patient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"patient.h"
+	"file_io.h"
+
+1686053974 source:c:\users\dell\desktop\prc\rendezvous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rendezvous.h"
+	"file_io.h"
+
+1686054267 source:c:\users\dell\desktop\prc\traitement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"traitement.h"
+	"file_io.h"
+
